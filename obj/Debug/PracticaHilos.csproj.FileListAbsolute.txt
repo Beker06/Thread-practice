@@ -1,0 +1,10 @@
+D:\Eliam\Escuela\6to Semestre\Topicos Avanzados de Programacion\PracticaHilos\bin\Debug\PracticaHilos.exe.config
+D:\Eliam\Escuela\6to Semestre\Topicos Avanzados de Programacion\PracticaHilos\bin\Debug\PracticaHilos.exe
+D:\Eliam\Escuela\6to Semestre\Topicos Avanzados de Programacion\PracticaHilos\bin\Debug\PracticaHilos.pdb
+D:\Eliam\Escuela\6to Semestre\Topicos Avanzados de Programacion\PracticaHilos\obj\Debug\PracticaHilos.csproj.AssemblyReference.cache
+D:\Eliam\Escuela\6to Semestre\Topicos Avanzados de Programacion\PracticaHilos\obj\Debug\PracticaHilos.Form1.resources
+D:\Eliam\Escuela\6to Semestre\Topicos Avanzados de Programacion\PracticaHilos\obj\Debug\PracticaHilos.Properties.Resources.resources
+D:\Eliam\Escuela\6to Semestre\Topicos Avanzados de Programacion\PracticaHilos\obj\Debug\PracticaHilos.csproj.GenerateResource.cache
+D:\Eliam\Escuela\6to Semestre\Topicos Avanzados de Programacion\PracticaHilos\obj\Debug\PracticaHilos.csproj.CoreCompileInputs.cache
+D:\Eliam\Escuela\6to Semestre\Topicos Avanzados de Programacion\PracticaHilos\obj\Debug\PracticaHilos.exe
+D:\Eliam\Escuela\6to Semestre\Topicos Avanzados de Programacion\PracticaHilos\obj\Debug\PracticaHilos.pdb
